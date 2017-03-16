@@ -32,4 +32,6 @@ Details what packages depend on this package.
 * `yarn upgrade-interactive`
 Selectively upgrade specific package in a simple way
 * Emojis
- Yarn has support for emojis :muscle:
+
+ Yarn has support for emojis :muscle: :metal:
+ Here is a cheatsheet for emojis: https://www.webpagefx.com/tools/emoji-cheat-sheet/
