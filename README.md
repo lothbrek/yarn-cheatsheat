@@ -24,12 +24,16 @@ npm equivalents in yarn with descriptions for those transitioning to yarn from n
 # What's yarn has that npm doesn't have
 
 *  `yarn license ls` 
+
 Inspect your dependencies licenses.
 *  `yarn licenses generate-disclaimer`
+
 Create your license dependency disclaimer
 *  `yarn why package_name`
+
 Details what packages depend on this package.
 * `yarn upgrade-interactive`
+
 Selectively upgrade specific package in a simple way
 * Emojis
 
