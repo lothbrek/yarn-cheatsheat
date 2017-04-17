@@ -33,4 +33,4 @@ npm equivalents in yarn with descriptions for those transitioning to yarn from n
  Selectively upgrade specific package in a simple way.
 * Emojis
  Yarn has support for emojis :muscle: :metal:.
- Here is a cheatsheet for emojis: https://www.webpagefx.com/tools/emoji-cheat-sheet/
+ Here is a cheatsheet for emojis: https://scotch.io/bar-talk/emoji-icons-in-github-commit-messages
