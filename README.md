@@ -31,6 +31,6 @@ npm equivalents in yarn with descriptions for those transitioning to yarn from n
  Details what packages depend on this package.
 * `yarn upgrade-interactive`
  Selectively upgrade specific package in a simple way.
-* Emojis
+* `Emojis`
  Yarn has support for emojis :muscle: :metal:.
- Here is a cheatsheet for emojis: https://scotch.io/bar-talk/emoji-icons-in-github-commit-messages
+ Here is a cheatsheet for emojis: https://www.webpagefx.com/tools/emoji-cheat-sheet/
